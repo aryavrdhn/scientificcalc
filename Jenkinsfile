@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('GIT CLONE') {
       steps {
-        git 'https://github.com/aryavrdhn/scientific_calc'
+        git 'https://github.com/aryavrdhn/scientificcalc'
       }
     }
     stage('MVN COMPILE') {
