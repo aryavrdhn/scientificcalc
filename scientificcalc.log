@@ -1,0 +1,18 @@
+17/Apr/2022:22:46:31 427 [My_Main.java] [INFO] scientific_calc.My_Main [FACTORIAL] - 7
+17/Apr/2022:22:46:31 433 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - FACTORIAL] - 5040.0
+17/Apr/2022:22:46:31 435 [My_Main.java] [INFO] scientific_calc.My_Main [LOG] - 245.256
+17/Apr/2022:22:46:31 435 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - LOG] - 5.502302562978017
+17/Apr/2022:22:46:31 436 [My_Main.java] [INFO] scientific_calc.My_Main [ROOT] - 25.0
+17/Apr/2022:22:46:31 436 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - ROOT] - 5.0
+17/Apr/2022:22:46:31 437 [My_Main.java] [INFO] scientific_calc.My_Main [LOG] - 149.256
+17/Apr/2022:22:46:31 437 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - LOG] - 5.005662952469698
+17/Apr/2022:22:46:31 437 [My_Main.java] [INFO] scientific_calc.My_Main [POWER] - 3.0, 2.0
+17/Apr/2022:22:46:31 438 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - POWER] - 9.0
+17/Apr/2022:22:46:31 438 [My_Main.java] [INFO] scientific_calc.My_Main [FACTORIAL] - 6
+17/Apr/2022:22:46:31 439 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - FACTORIAL] - 720.0
+17/Apr/2022:22:46:31 439 [My_Main.java] [INFO] scientific_calc.My_Main [POWER] - 2.0, 4.0
+17/Apr/2022:22:46:31 440 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - POWER] - 16.0
+17/Apr/2022:22:46:31 440 [My_Main.java] [INFO] scientific_calc.My_Main [ROOT] - 17.0
+17/Apr/2022:22:46:31 440 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - ROOT] - 4.123105625617661
+17/Apr/2022:22:50:48 381 [My_Main.java] [INFO] scientific_calc.My_Main [FACTORIAL] - 6
+17/Apr/2022:22:50:48 393 [My_Main.java] [INFO] scientific_calc.My_Main [OUTPUT - FACTORIAL] - 720.0
